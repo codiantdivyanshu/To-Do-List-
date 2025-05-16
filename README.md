@@ -23,6 +23,21 @@ A simple terminal-based To-Do List application built using Python. You can add, 
 
 1. Clone the repository:
 
+https://github.com/codiantdivyanshu/To-Do-List-.git
 
-git clone https://github.com/YOUR-USERNAME/todo-list-python.git
-cd todo-list-python
+2. Run the app
+
+   python todo.py
+
+3. Example Usage
+    ===== To-Do List =====
+      [ ] Finish homework
+      [x] Buy groceries
+
+  Options:
+  Add Task
+  Complete Task
+  Delete Task
+  Show Tasks
+  Exit
+
